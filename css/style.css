@@ -46,6 +46,9 @@ header {
     text-decoration: none;
     text-transform: uppercase;
 }
+.container{
+    background: plum;
+}
 
 footer {
     width: 100%;
